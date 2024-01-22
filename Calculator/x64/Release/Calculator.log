@@ -1,0 +1,15 @@
+﻿  MyForm.cpp
+D:\GUI projects\calculator\Calculator\MyForm.h(325,14): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\GUI projects\calculator\Calculator\MyForm.h(330,14): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\GUI projects\calculator\Calculator\MyForm.h(335,14): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\GUI projects\calculator\Calculator\MyForm.h(340,14): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\GUI projects\calculator\Calculator\MyForm.h(345,14): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\GUI projects\calculator\Calculator\MyForm.h(350,14): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\GUI projects\calculator\Calculator\MyForm.h(355,14): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\GUI projects\calculator\Calculator\MyForm.h(360,14): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\GUI projects\calculator\Calculator\MyForm.cpp(8,34): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+MSVCRT.lib(exe_winmain.obj) : error LNK2019: unresolved external symbol WinMain referenced in function "int __cdecl __scrt_common_main_seh(void)" (?__scrt_common_main_seh@@YAHXZ)
+D:\GUI projects\calculator\x64\Release\Calculator.exe : fatal error LNK1120: 1 unresolved externals
