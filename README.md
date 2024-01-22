@@ -37,6 +37,8 @@ To run the project on your windows system:
   <li>Get an approximate value in local currency based on purchase power parity.</li>
 </ol>
 
+## Screenshot of the application
+![image](https://github.com/RohitK2003/ppp_calculator/assets/103279179/2282d8e3-b9ab-4fd3-a360-da08ad278bc5)
 
 
 
